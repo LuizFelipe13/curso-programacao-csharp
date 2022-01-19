@@ -1,0 +1,16 @@
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\bin\Debug\net5.0\exercicio1005.exe
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\bin\Debug\net5.0\exercicio1005.deps.json
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\bin\Debug\net5.0\exercicio1005.runtimeconfig.json
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\bin\Debug\net5.0\exercicio1005.runtimeconfig.dev.json
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\bin\Debug\net5.0\exercicio1005.dll
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\bin\Debug\net5.0\ref\exercicio1005.dll
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\bin\Debug\net5.0\exercicio1005.pdb
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\obj\Debug\net5.0\exercicio1005.csproj.AssemblyReference.cache
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\obj\Debug\net5.0\exercicio1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\obj\Debug\net5.0\exercicio1005.AssemblyInfoInputs.cache
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\obj\Debug\net5.0\exercicio1005.AssemblyInfo.cs
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\obj\Debug\net5.0\exercicio1005.csproj.CoreCompileInputs.cache
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\obj\Debug\net5.0\exercicio1005.dll
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\obj\Debug\net5.0\ref\exercicio1005.dll
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\obj\Debug\net5.0\exercicio1005.pdb
+C:\Users\luiz_\source\repos\exercicio1005\exercicio1005\obj\Debug\net5.0\exercicio1005.genruntimeconfig.cache

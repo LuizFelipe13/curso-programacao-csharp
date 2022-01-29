@@ -1,0 +1,16 @@
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\bin\Debug\net5.0\exercicio1036.exe
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\bin\Debug\net5.0\exercicio1036.deps.json
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\bin\Debug\net5.0\exercicio1036.runtimeconfig.json
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\bin\Debug\net5.0\exercicio1036.runtimeconfig.dev.json
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\bin\Debug\net5.0\exercicio1036.dll
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\bin\Debug\net5.0\ref\exercicio1036.dll
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\bin\Debug\net5.0\exercicio1036.pdb
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\obj\Debug\net5.0\exercicio1036.csproj.AssemblyReference.cache
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\obj\Debug\net5.0\exercicio1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\obj\Debug\net5.0\exercicio1036.AssemblyInfoInputs.cache
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\obj\Debug\net5.0\exercicio1036.AssemblyInfo.cs
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\obj\Debug\net5.0\exercicio1036.csproj.CoreCompileInputs.cache
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\obj\Debug\net5.0\exercicio1036.dll
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\obj\Debug\net5.0\ref\exercicio1036.dll
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\obj\Debug\net5.0\exercicio1036.pdb
+C:\Users\luiz_\source\repos\exercicio1036\exercicio1036\obj\Debug\net5.0\exercicio1036.genruntimeconfig.cache

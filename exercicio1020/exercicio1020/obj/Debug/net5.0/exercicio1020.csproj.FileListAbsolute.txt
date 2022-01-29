@@ -1,0 +1,15 @@
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\bin\Debug\net5.0\exercicio1020.exe
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\bin\Debug\net5.0\exercicio1020.deps.json
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\bin\Debug\net5.0\exercicio1020.runtimeconfig.json
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\bin\Debug\net5.0\exercicio1020.runtimeconfig.dev.json
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\bin\Debug\net5.0\exercicio1020.dll
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\bin\Debug\net5.0\ref\exercicio1020.dll
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\bin\Debug\net5.0\exercicio1020.pdb
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\obj\Debug\net5.0\exercicio1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\obj\Debug\net5.0\exercicio1020.AssemblyInfoInputs.cache
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\obj\Debug\net5.0\exercicio1020.AssemblyInfo.cs
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\obj\Debug\net5.0\exercicio1020.csproj.CoreCompileInputs.cache
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\obj\Debug\net5.0\exercicio1020.dll
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\obj\Debug\net5.0\ref\exercicio1020.dll
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\obj\Debug\net5.0\exercicio1020.pdb
+C:\Users\luiz_\source\repos\exercicio1020\exercicio1020\obj\Debug\net5.0\exercicio1020.genruntimeconfig.cache

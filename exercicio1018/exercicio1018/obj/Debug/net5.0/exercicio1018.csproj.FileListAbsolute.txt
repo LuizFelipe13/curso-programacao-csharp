@@ -1,0 +1,16 @@
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\obj\Debug\net5.0\exercicio1018.csproj.AssemblyReference.cache
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\obj\Debug\net5.0\exercicio1018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\obj\Debug\net5.0\exercicio1018.AssemblyInfoInputs.cache
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\obj\Debug\net5.0\exercicio1018.AssemblyInfo.cs
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\obj\Debug\net5.0\exercicio1018.csproj.CoreCompileInputs.cache
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\bin\Debug\net5.0\exercicio1018.exe
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\bin\Debug\net5.0\exercicio1018.deps.json
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\bin\Debug\net5.0\exercicio1018.runtimeconfig.json
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\bin\Debug\net5.0\exercicio1018.runtimeconfig.dev.json
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\bin\Debug\net5.0\exercicio1018.dll
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\bin\Debug\net5.0\ref\exercicio1018.dll
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\bin\Debug\net5.0\exercicio1018.pdb
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\obj\Debug\net5.0\exercicio1018.dll
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\obj\Debug\net5.0\ref\exercicio1018.dll
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\obj\Debug\net5.0\exercicio1018.pdb
+C:\Users\luiz_\source\repos\exercicio1018\exercicio1018\obj\Debug\net5.0\exercicio1018.genruntimeconfig.cache

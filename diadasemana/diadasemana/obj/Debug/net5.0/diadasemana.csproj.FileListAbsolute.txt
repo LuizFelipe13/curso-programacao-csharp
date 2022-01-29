@@ -1,0 +1,16 @@
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\bin\Debug\net5.0\diadasemana.exe
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\bin\Debug\net5.0\diadasemana.deps.json
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\bin\Debug\net5.0\diadasemana.runtimeconfig.json
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\bin\Debug\net5.0\diadasemana.runtimeconfig.dev.json
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\bin\Debug\net5.0\diadasemana.dll
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\bin\Debug\net5.0\ref\diadasemana.dll
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\bin\Debug\net5.0\diadasemana.pdb
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\obj\Debug\net5.0\diadasemana.csproj.AssemblyReference.cache
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\obj\Debug\net5.0\diadasemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\obj\Debug\net5.0\diadasemana.AssemblyInfoInputs.cache
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\obj\Debug\net5.0\diadasemana.AssemblyInfo.cs
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\obj\Debug\net5.0\diadasemana.csproj.CoreCompileInputs.cache
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\obj\Debug\net5.0\diadasemana.dll
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\obj\Debug\net5.0\ref\diadasemana.dll
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\obj\Debug\net5.0\diadasemana.pdb
+C:\Users\luiz_\source\repos\diadasemana\diadasemana\obj\Debug\net5.0\diadasemana.genruntimeconfig.cache

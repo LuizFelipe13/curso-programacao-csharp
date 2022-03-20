@@ -1,0 +1,16 @@
+C:\Users\luiz_\source\repos\idade\idade\bin\Debug\net5.0\idade.exe
+C:\Users\luiz_\source\repos\idade\idade\bin\Debug\net5.0\idade.deps.json
+C:\Users\luiz_\source\repos\idade\idade\bin\Debug\net5.0\idade.runtimeconfig.json
+C:\Users\luiz_\source\repos\idade\idade\bin\Debug\net5.0\idade.runtimeconfig.dev.json
+C:\Users\luiz_\source\repos\idade\idade\bin\Debug\net5.0\idade.dll
+C:\Users\luiz_\source\repos\idade\idade\bin\Debug\net5.0\ref\idade.dll
+C:\Users\luiz_\source\repos\idade\idade\bin\Debug\net5.0\idade.pdb
+C:\Users\luiz_\source\repos\idade\idade\obj\Debug\net5.0\idade.csproj.AssemblyReference.cache
+C:\Users\luiz_\source\repos\idade\idade\obj\Debug\net5.0\idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz_\source\repos\idade\idade\obj\Debug\net5.0\idade.AssemblyInfoInputs.cache
+C:\Users\luiz_\source\repos\idade\idade\obj\Debug\net5.0\idade.AssemblyInfo.cs
+C:\Users\luiz_\source\repos\idade\idade\obj\Debug\net5.0\idade.csproj.CoreCompileInputs.cache
+C:\Users\luiz_\source\repos\idade\idade\obj\Debug\net5.0\idade.dll
+C:\Users\luiz_\source\repos\idade\idade\obj\Debug\net5.0\ref\idade.dll
+C:\Users\luiz_\source\repos\idade\idade\obj\Debug\net5.0\idade.pdb
+C:\Users\luiz_\source\repos\idade\idade\obj\Debug\net5.0\idade.genruntimeconfig.cache
